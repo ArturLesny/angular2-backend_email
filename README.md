@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Projekt pokazuje możliwość wysyłania wiadomości email do administratora ze strony "kontakt".
 Projekt składa się z dwóch części : serwera "proxy" który pośredniczy między fortendem a serwerem email (gmail.com).
-Dokładny opis instalacji i wykorzystania podany w WIKI.
+Dokładny opis instalacji i wykorzystania podany na WIKI.
 
 ## Development server
 
