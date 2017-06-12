@@ -5,7 +5,7 @@ Projekt składa się z dwóch części :
 - serwera "proxy", który pośredniczy między fortendem a serwerem email (wykorzystano gmail.com);
 - przykładowej aplikacji/formularza symulującego stronę "kontakt".
 
-Dokładny opis instalacji i wykorzystania podano na WIKI.
+Dokładny opis instalacji i wykorzystania podano na WIKI : https://github.com/ArturLesny/angular2-backend_email/wiki/Wysylanie-informacji-z-formularza-kontaktowego-na-konkretny-adres-email-=-implementacja .
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
